@@ -5,6 +5,7 @@ public class HelloWorld {
     //21321321
         
         //Good morning from branch master
+        //Line from user2
 
     }
 }
